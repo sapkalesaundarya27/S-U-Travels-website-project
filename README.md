@@ -1,9 +1,10 @@
 🧳 S-U Travels – Travel Website Project
 👩‍💻 Overview
 
-S-U Travels is a responsive travel website developed as a team project to practice real-world web development skills.
-Our goal was to design a clean and user-friendly interface where users can explore travel packages, destinations, and services easily.
-As a Junior Full Stack Web Developer, I contributed to building and styling the website’s front end, ensuring responsiveness and smooth functionality.
+Developed a responsive travel website where users can explore destinations and services.
+As a Junior Full Stack Developer, I worked on front-end design and basic JavaScript interactivity.
+Used HTML, CSS, and JavaScript for UI development and deployed via GitHub Pages.
+This project strengthened my skills in responsive web design, team collaboration, and project version management with Git.
 
 🛠️ Technologies Used
 | HTML5 – Website structure |
